@@ -1,0 +1,24 @@
+/* Estilos adicionales (opcional) */
+body {
+    background-color: #f7f7f7;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #007bff;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
